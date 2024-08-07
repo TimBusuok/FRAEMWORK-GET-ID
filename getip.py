@@ -4,7 +4,7 @@ import sys
 
 
 
-print( figlet_format("GET ID", font = "isometric3" ) )
+print( figlet_format("GET IP", font = "isometric3" ) )
 print("If you want help then write help")
 
 while(True):
